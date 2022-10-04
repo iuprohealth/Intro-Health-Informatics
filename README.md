@@ -15,9 +15,12 @@ git clone git@github.com:iuprohealth/Intro-Health-Informatics.git
 cd Intro-Health-Informatics/
 ```
 
-### Google Colab
+### Online Notebook Environment
 
-(TODO: Link)
+Use one of these to open the notebook in a browser:
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/iuprohealth/Intro-Health-Informatics/blob/main/notebooks/Hypoglycemia-Exploration.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/iuprohealth/Intro-Health-Informatics/HEAD?filepath=notebooks%2FHypoglycemia-Exploration.ipynb)
 
 ### Conda
 
